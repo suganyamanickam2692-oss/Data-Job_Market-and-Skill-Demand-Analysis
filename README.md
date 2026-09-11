@@ -39,7 +39,11 @@ The dataset is sourced from Datanemics. Please refer to the original dataset pag
 
 ## Acknowledgments
 Datanemics – Data Job Postings dataset
+
 Python – Data cleaning and analysis
+
 Pandas – Data manipulation
+
 Matplotlib & Seaborn – Data visualization
+
 Microsoft Power BI – Interactive dashboard development
