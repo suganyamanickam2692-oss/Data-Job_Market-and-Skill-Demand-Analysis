@@ -14,10 +14,13 @@ Python will be used for data cleaning, transformation, and exploratory data anal
 
 The project requires the following software and libraries:
 
-Windows 10/11 or any compatible operating system.
-Python 3.9 or above.
-Jupyter Notebook / Google Colab.
-Power BI Desktop.
+Windows 10/11 or any compatible operating system
+
+Python 3.9 or above
+
+Jupyter Notebook / Google Colab
+
+Power BI Desktop
 
 ## Authors
 
